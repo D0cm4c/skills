@@ -1,3 +1,10 @@
+---
+name: coordination-intersessions
+description: Utilisé au démarrage de toute session IA rattachée à un dépôt d'un écosystème multi-dépôts travaillé par plusieurs sessions en parallèle (ex. app + plugin). Coordonner les sessions via des issues GitHub : lister les issues ouvertes sur son dépôt et les partenaires, traiter en priorité celles avec son label, documenter les interfaces dans les deux dépôts.
+user-invocable: true
+license: MIT
+---
+
 # Skill : coordination-intersessions
 
 Coordonner plusieurs sessions IA travaillant en parallèle sur des dépôts liés d'un même écosystème, en remplaçant « l'humain-bus-de-données » par des issues GitHub.
