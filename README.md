@@ -7,6 +7,7 @@ Dépôt de skills (protocoles réutilisables) pour les sessions IA travaillant s
 | Skill | Objectif | Déclencheur |
 |---|---|---|
 | [coordination-intersessions](coordination-intersessions/SKILL.md) | Coordonner plusieurs sessions IA travaillant en parallèle sur des dépôts liés, via des issues GitHub | Projet multi-dépôts travaillés par plusieurs sessions IA |
+| [methode-dev-app](methode-dev-app/SKILL.md) | Concevoir et développer une application étape par étape (compréhension, benchmark, architecture, specs écrites, revue critique, phasage) avant tout code | Nouveau projet de création d'application, avec un porteur de projet éventuellement non technique |
 
 ## Mode d'emploi
 
