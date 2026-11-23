@@ -8,6 +8,7 @@ Dépôt de skills (protocoles réutilisables) pour les sessions IA travaillant s
 |---|---|---|
 | [coordination-intersessions](coordination-intersessions/SKILL.md) | Coordonner plusieurs sessions IA travaillant en parallèle sur des dépôts liés, via des issues GitHub | Projet multi-dépôts travaillés par plusieurs sessions IA |
 | [methode-dev-app](methode-dev-app/SKILL.md) | Concevoir et développer une application étape par étape (compréhension, benchmark, architecture, specs écrites, revue critique, phasage) avant tout code | Nouveau projet de création d'application, avec un porteur de projet éventuellement non technique |
+| [pre-production](pre-production/SKILL.md) | Encadrer toute phase de conception AVANT tout codage : cadrage, options comparées, pour/contre documentés, doc de conception, décisions figées après validation humaine | Nouveau chantier, fonctionnalité majeure, refonte ou maquette au sein d'un projet — dès qu'il est évoqué, avant tout code |
 
 ## Mode d'emploi
 
